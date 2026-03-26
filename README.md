@@ -6,8 +6,8 @@
 - [Struttura salvataggio dati analisi](#struttura-salvataggio-dati-analisi)
     - [Termalizzazione](#termalizzazione)
     - [Errore in funzione di k](#errore-in-funzione-di-k)
-    - [Iterazioni](#iterazioni)
-    - [Questioni aperte analisi dati](#questioni-aperte-analisi-dati)
+   
+  
 <!--toc:end-->
 
 Nella nuova versione, analisi dati esporta un singolo file di testo per ogni L, in formato:
