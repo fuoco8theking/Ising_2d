@@ -1,5 +1,5 @@
 // ISING CON CLUSTER UPDATE
-// ultima modifica 23/93/26 ore 10:54 Andrea: aggiunta descrizioni
+
 #include "pcg_basic.h"
 #include <math.h>
 #include <stdio.h>
